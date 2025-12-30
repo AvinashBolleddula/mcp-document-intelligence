@@ -1,0 +1,15 @@
+testing/*
+!testing/.gitkeep
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+env/
+ENV/
+chroma_db/
+.DS_Store
+.ipynb_checkpoints/
+main.py
+.python-version
